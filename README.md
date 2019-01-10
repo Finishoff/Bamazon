@@ -6,8 +6,11 @@
 ![Screenshot of app](https://github.com/Finishoff/Bamazon/blob/master/3.png)
 
 ## What is does this project do and how is it useful?
-    * This project utilizes SQL database. Creating a database with a inventory with prices, stock and a unique ID to identify the item.
-    *Clonelike application of Amazon that emulates a storefront showing available items, item quantities, total cost and leftover.
+    * This project utilizes SQL database. Creating a database with a inventory with prices, stock and a unique
+    	ID to identify the item.
+	
+    *Clonelike application of Amazon that emulates a storefront showing available items, 
+    	item quantities, total cost and leftover.
 
 ## How to get started?
     *Install the required dependencies found in the package json.
